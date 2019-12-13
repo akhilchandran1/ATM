@@ -1,0 +1,35 @@
+accountBalance 10000
+Sat Nov 18 12:04:12 GMT 2017 WidrawedAmount 100
+accountBalance 9900
+Sat Nov 18 12:07:25 GMT 2017 WidrawedAmount 0
+accountBalance 9900
+Sat Nov 18 12:09:22 GMT 2017 WidrawedAmount 10
+accountBalance 9890
+Sat Nov 18 20:50:13 GMT 2017 WidrawedAmount 10
+accountBalance 9880
+Sun Nov 19 19:30:23 GMT 2017 WidrawedAmount 100
+accountBalance 9780
+Thu Dec 07 18:42:07 GMT 2017 WidrawedAmount 10
+accountBalance 9770
+Thu Dec 14 12:44:20 GMT 2017 WidrawedAmount 10
+accountBalance 9760
+Thu Dec 14 22:34:55 GMT 2017 WidrawedAmount 10
+accountBalance 9750
+Sat Dec 16 15:38:48 GMT 2017 WidrawedAmount 50
+accountBalance 9700
+Sat Dec 16 15:39:25 GMT 2017 WidrawedAmount 10
+accountBalance 9690
+Sat Dec 16 15:43:41 GMT 2017 WidrawedAmount 10
+accountBalance 9680
+Sat Dec 16 15:55:30 GMT 2017 WidrawedAmount 10
+accountBalance 9670
+Sun Dec 17 13:05:32 GMT 2017 WidrawedAmount 10
+accountBalance 9660
+Sun Dec 17 23:59:42 GMT 2017 WidrawedAmount 50
+accountBalance 9610
+Mon Dec 18 13:45:56 GMT 2017 WidrawedAmount 10
+accountBalance 9600
+Mon Dec 18 13:49:26 GMT 2017 WidrawedAmount 10
+accountBalance 9590
+Fri Apr 12 14:45:19 BST 2019 WidrawedAmount 20
+accountBalance 9570

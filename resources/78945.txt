@@ -1,0 +1,10 @@
+accountBalance 150
+
+Sun Dec 17 17:03:53 GMT 2017 WidrawedAmount 10
+accountBalance 140
+Sun Dec 17 17:28:49 GMT 2017 WidrawedAmount 10
+accountBalance 130
+Sun Dec 17 17:31:31 GMT 2017 WidrawedAmount 20
+accountBalance 110
+Sun Dec 17 17:54:07 GMT 2017 WidrawedAmount 10
+accountBalance 100
